@@ -34,7 +34,7 @@ or:
 1. Clone the repository to your local machine.
 
    ```bash
-   ,https://github.com/Leonardo-A-Pacheco/weather-base-JS.git  
+   https://github.com/Leonardo-A-Pacheco/weather-base-JS.git  
    ```
 
 2. Open the `index.html` file in a web browser.
