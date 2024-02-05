@@ -10,13 +10,18 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #2d5b2d;
+    background-color: #6260ad;
+    /* background-image: url(./bg-clima.jpg);
+    background-size: cover; 
+    background-position: center; */
+
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     color: #FFF;
     margin: 20px 0;
+    
 }
 
 .busca {
@@ -27,13 +32,13 @@ h1 {
     flex: 1;
     padding: 10px;
     outline: none;
-    font-size: 15px;
+    font-size: 25px;
     border-radius: 5px;
     border: 0;
 }
 .busca button {
     padding: 10px;
-    font-size: 15px;
+    font-size: 22px;
     border: 0;
     background-color: #555;
     color: #FFF;
@@ -120,5 +125,5 @@ h1 {
 footer {
     margin-top: 20px;
     color: #FFF;
-    font-size: 13px;
+    font-size: 18px;
 }
